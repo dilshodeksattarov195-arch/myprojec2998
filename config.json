@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsender",
+        "uuid": 12054958,
+        "checksum": "jzbq6s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
